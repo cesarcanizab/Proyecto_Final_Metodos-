@@ -14,5 +14,5 @@
 ## Asignatura
 Métodos Numéricos - ICCD412
 
-## Instirución 
+## Institución 
 Escuela Politécnica Nacional
