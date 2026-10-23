@@ -1,7 +1,7 @@
 # Proyecto_Final_Metodos
 
-## Tema del pryecto
-**Tema:** [Análisis del crecimiento poblacional y la esperanza de vida]
+## Tema del proyecto
+**Tema:** Análisis del crecimiento poblacional y la esperanza de vida
 
 ## Número de grupo
 **Grupo:**  7
