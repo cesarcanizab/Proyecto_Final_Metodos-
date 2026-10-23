@@ -4,7 +4,7 @@
 **Tema:** [Análisis del crecimiento poblacional y la esperanza de vida]
 
 ## Número de grupo
-**Grupo: ** [# 7]
+**Grupo:**  7
 
 ## Integrantes
 - Cesar Canizares
