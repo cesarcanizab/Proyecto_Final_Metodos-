@@ -8,7 +8,7 @@
 
 ## Integrantes
 - Cesar Canizares
-- Luis Moreta
+- Esteban Moreta
 - Byron Silva
 
 ## Asignatura
