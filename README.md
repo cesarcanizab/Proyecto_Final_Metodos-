@@ -6,6 +6,10 @@
 - Desarrollar y evaluar un modelo numérico que estime la esperanza de vida al nacer por condado, año a partir del crecimiento poblacional, tasas de natalidad y mortalidad bruta, mediante ajustes por mínimos cuadrados, descomposición LU y representar su trayectoria entre años mediante splines cúbicos.
 - Cuantificar los errores de las estimaciones de esperanza de vida mediante el error absoluto medio y la raíz del error cuadrático medio, comparando los valores calculados con las referencias históricas para evaluar la presición del modelo.
 - Desarrollar la función de interpolación mediante splines cúbicos mediante las estimaciones anuales de esperanza de vida por condado para representar su evolución temporal y aproximar valores intermedios dentro del periodo analizado.
+
+## Descripción del proyecto 
+
+
   
 
 ## Número de grupo
@@ -15,8 +19,18 @@
 - Cesar Canizares
 - Esteban Moreta
 - Byron Silva
+  
 ## Variables Independientes
-- 
+- Crecimiento Poblacional
+- Tasa de natalidad
+- Tasa de mortalidad bruta
+- Tasa de migración interna neta
+- Tasa de migración internacional neta
+  
+## Variables Dependientes
+- Esperanza de vida al nacer del año actual
+- Crecimiento poblacional del año siguiente
+  
 ## Métodos a usar
 - Splines Cúbicos
 - Mínimos Cuadrados
